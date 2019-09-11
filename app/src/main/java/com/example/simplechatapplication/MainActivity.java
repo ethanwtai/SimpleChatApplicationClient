@@ -1,3 +1,9 @@
+/*
+This is supposed to be the client side application for my simple chat application.
+This version is broken. 
+ */
+
+
 package com.example.simplechatapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
