@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Chat Application</string>
+    <string name="edit_box">Enter a message</string>
+    <string name="Send_Button">Send</string>
+    <string name="textview">TextView</string>
+    <string name="connecting">Connecting&#8230;</string>
+
+</resources>
